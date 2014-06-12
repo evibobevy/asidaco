@@ -1,0 +1,113 @@
+/*light text color*/
+p > span,
+h2 > span,
+.nav-pills > li.active > a, 
+.nav-pills > li.active > a:hover, 
+.nav-pills > li.active > a:focus,
+.rox-submenu-item a:hover,
+.dropdown a:hover.rox-mega-menu-item a:hover, .rox-menu-fullwidth a:hover,
+h1 > span:last-child,
+h1 > span:first-child,
+h1>span:first-child:after,
+.client_section_title h1 span:after,
+.read_more a i,
+.process_icon i:hover,
+.address p a,
+.latest_post a h2:hover,
+.post_meta > p > a:hover,
+.post_meta > a:hover,
+.category_widget ul li a:hover,
+.post_content a,
+.circula-btn, .press-me-btn,
+.post-content a:hover, .post-content a:hover i,
+.breadcumb ul li a:hover,
+.breadcumb ul li.active a,
+.pagination > li > #bg-none,
+.archive ul li a:hover,
+.not_found_title h1, 
+.newslatter p i,
+.feature ul li:hover i,
+.portfolio-info ul li a:hover ,
+.list-skills i,
+blockquote i
+{
+    color: #5CE65C;
+}
+
+header nav ul.nav-main ul.dropdown-menu .rox-menu-wrapper>li:hover>a,
+header nav ul.nav-main ul.dropdown-menu .rox-menu-wrapper>li.active>a
+{color:#5CE65C!important;}
+/*light color bakground*/
+.press_me_btn:hover, 
+.readmore a:hover, 
+.read_more a, 
+.randomrotate a:hover,
+.latest_work_hover_first .latest_work_btn,
+.working_process a:hover,
+.video-play i,
+.view-first .mask,
+.carousel-control.right span i,
+.carousel-control.left span i,
+.blog_post_date p,
+input[type="submit"]:hover,
+.about_bg,
+.tag_widget .social_area ul li a i:hover,
+.footer_bottom_area,
+.pagination > li > a,
+.process_icon i,
+.readmore a:hover,
+.member_social_icon ul li a i:hover,
+.post_date > p,
+.comment_box_form .submit,
+.our_address i,
+.circula-btn:hover, .press-me-btn:hover,
+.testimonial_bg,
+.carousel-indicators .active,
+.btn-live,
+.btn-live:hover,
+.selected, .tp-bullets.simplebullets.round .bullet:hover
+{
+    background-color: #5CE65C;
+}
+.tag_list li a:hover{background-color: #5CE65C!important;}
+
+.view-first p{background-color:#ec8780;}
+.circula-btn:hover, .press-me-btn:hover{color:#FFF;}
+.process_icon i:hover{background:#FFF}
+
+/*border color*/
+.our_service i:hover,
+.circula-btn, .press-me-btn,
+.our_blog,
+input[type="email"],
+input[type="submit"],
+.tag_widget .social_area ul li a i,
+.who_we_are_img,
+.readmore .btn-default,
+.portfolio-carosel-inner
+{
+    border-color: #5CE65C;
+}
+.tag_list li a{border-color:#5CE65C!important}
+/*border bottom color*/
+h1 > span:first-child:after,
+.panel_customize > .panel_heading_customize,
+.client_section_title h1 span:after,
+.tag_widget h2:after, .address h2:after, .flickr h2:after, .category_widget h2:after, .archive h2:after,
+.not_found_title>h1>span:after
+{
+    border-bottom-color: #5CE65C;
+}
+
+/*border left color*/
+.blockquote:after,
+.blockquote,
+header nav ul.nav-main .dropdown-submenu:hover > a:after
+{
+    border-left-color:#5CE65C;
+}
+
+/*Preset Images*/
+.logo{background:url(../../images/presets/logo-1.png) no-repeat 0 0;}
+.skill_bg{background: url("../../images/presets/skill-img-1.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);}
+.back-to-top{background:#5CE65C}

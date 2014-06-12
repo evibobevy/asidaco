@@ -1,0 +1,159 @@
+/* This CSS for small Mobile*/
+@media only screen and (max-width: 767px) {
+.demo-text p{font-size:12px;padding:5px;float:left;}
+.press_me_btn{font-size:8px;}
+.press_me_btn{margin-left:10px;}
+.slider-heading p{line-height:12px;}
+.demo-text{top:-10px;}
+.feature h1{font-size:20px;}
+.feature p{font-size:14px;}
+.our_accordion h2, .our_dextarity h2{margin-left:10%;}
+.our_dextarity{display:none;}
+.our_story h1{font-size:20px;}
+.video-play i{height:60px;width:60px;padding:20px 0 0}
+.circula-btn, .press-me-btn{margin-bottom:20px;}
+h1 > span:first-child:after{border-bottom:none;}
+.post-content {padding: 10px;}
+.our_blog { margin-bottom: 10px;}
+.post-images img {margin: 0 auto; width: 100%; padding: 15px;}
+.custom_breadcumb {left: 15px;margin-top: 0!important;position: absolute;}
+.custom_breadcumb ul li a {font-size: 10px;}
+.breadcumb_title h2{font-size:25px;}
+.latest_work_btn a img{top:25%;}
+.project_details{bottom: 48px;}
+.margin_top{bottom:10px!important;}
+.view p{font-size:10px;}
+.client_photo img{margin-top:-5px;}
+.client_photo h3{font-size:12px;}
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {	
+.demo-text{padding: 10px;}
+.demo-text-bg{padding: 10px;}
+.demo-text p{margin-left:0px;font-size:10px;}
+.press_me_btn{font-size:10px;}
+.press_me_btn{margin-left:10px;}
+.feature{text-align:center;}
+.our_accordion {margin-left: 10%;}
+.our_dextarity{display:none;}
+.our_blog {padding: 45px;margin-bottom:20px;}
+input[type="email"]{width: 240px;}
+input[type="submit"]{width: 100px;}
+.newslatter p{font-size: 18px;padding-right: 140px;}
+.align-right{float:none;}
+.align-left{float:none;}
+.margin-top{text-align:center;}
+.who_we_are_area:before{border:0;}
+.who_we_are_area:after{border:0;}
+.our_team_member {margin-bottom: 70px;}
+.right_sidebar {margin-top: 30px;}
+.our_address{height:200px;}
+.view p{font-size:16px;}
+.randomrotate a{padding:3px 5px;font-size:8px;}
+.slider-heading p{line-height:18px;}
+.project-head-title h1{margin-top:20px;}
+.demo-text{top:-45px;}
+.feature h1{font-size:36px;}
+.feature p{font-size:18px;}
+.video-play i{height:120px;width:120px;padding:47px 0 0}
+.our_story h1{font-size:36px;}
+h1 > span:first-child:after{border-bottom:3px solid;}
+.post-images img {float: left; margin-right: 20px; padding-bottom: 70px;width:40%;}
+.breadcumb {margin-top:35px;}
+.breadcumb ul li a {font-size: 14px;}
+.latest_work_btn a img{top:25%;}
+.project_details{bottom: 48px;}
+.client_photo img{margin-top:10px;}
+.margin_top{bottom:10px!important;}
+.client_photo h3{margin-top:10px;font-size:14px;}
+}
+
+/* This CSS for Tablet */
+@media (min-width: 768px) {
+.demo-text{padding: 10px;}
+.demo-text-bg{padding: 15px;}
+.demo-text p{margin-left: 0px;font-size: 16px;}
+.press_me_btn{font-size:14px;}
+.feature{text-align:center;}
+.our_accordion {margin-left: 10%;}
+.our_dextarity {margin-left: 10%;}
+.our_blog {padding: 45px;}
+input[type="submit"]{width: 95px;}
+input[type="email"]{width: 185px;}
+.newslatter p{font-size:22px;}
+.align-right{float:right;}
+.align-left{float:left;}
+.who_we_are_area:before{border:0;}
+.who_we_are_area:after{border:0;}
+.our_team_member {margin-bottom: 70px;}
+.view p{font-size:10px;}
+.randomrotate a{font-size: 10px;padding: 3px 5px;}
+.slider-heading p{line-height:28px;}
+.project-head-title h1{margin-top:20;}
+.demo-text{top:-45px;}
+.video-play i{height:120px;width:120px;padding:47px 0 0}
+.post-images img {float: left; margin-right: 20px; padding-bottom: 70px;}
+.latest_work_btn a img{top:20%;}
+.project_details{bottom: 15px;}
+.margin_top{bottom:-5px!important;}
+.small_img_btn a img{top:5px;}
+}
+
+/* This CSS for Medium Devices */
+@media (min-width: 992px) {
+.demo-text{padding: 10px;}
+.demo-text-bg{padding: 25px;}
+.demo-text p{margin-left:80px;font-size:20px;}
+.feature{text-align:left;}
+.our_accordion {margin-left: 0%;}
+.our_dextarity {margin-left: 0%;}
+.our_blog {padding: 20px;}
+input[type="submit"]{width: 200px;}
+input[type="email"]{width: 270px;}
+.newslatter p{font-size:22px;}
+.align-right{float:right;}
+.align-left{float:left;}
+.who_we_are_area:before{border: 1px solid #ACABAB;}
+.who_we_are_area:after{border: 1px solid #ACABAB;}
+.view p{font-size:10px;}
+.randomrotate a{padding:5px 8px;font-size:12px;}
+.slider-heading p{line-height:35px;}
+.project-head-title h1{margin-top:0;}
+.demo-text{top:-45px;}
+.video-play i{height:120px;width:120px;padding:47px 0 0}
+.post-images img {float: left; margin-right: 20px; padding-bottom: 70px;}
+.latest_work_btn a img{top:25%;}
+.project_details{bottom: 48px;}
+.small_img_btn a img{top:10px;}
+.margin_top{bottom:10px!important;}
+
+}
+
+/* This CSS for Large Devices */
+@media (min-width: 1200px) {
+.demo-text{padding: 10px;}
+.demo-text-bg{padding: 25px;}
+.demo-text p{margin-left:180px;font-size:20px;}
+.feature{text-align:left;}
+.our_accordion {margin-left: 0%;}
+.our_dextarity {margin-left: 0%;}
+.our_blog {padding: 20px;}
+input[type="submit"]{width: 200px;}
+input[type="email"]{width: 270px;}
+.newslatter p{font-size:22px;}
+.align-right{float:right;}
+.align-left{float:left;}
+.who_we_are_area:before{border: 1px solid #ACABAB;}
+.who_we_are_area:after{border: 1px solid #ACABAB;}
+.view p{font-size:12px;}
+.randomrotate a{padding:5px 10px;font-size:14px;}
+.slider-heading p{line-height:35px;}
+.project-head-title h1{margin-top:0;}
+.demo-text{top:-45px;}
+.video-play i{height:120px;width:120px;padding:47px 0 0}
+.post-images img {float: left; margin-right: 20px; padding-bottom: 70px;}
+.latest_work_btn a img{top:25%;}
+.project_details{bottom: 48px;}
+.margin_top{bottom:10px!important;}
+}
